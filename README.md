@@ -1,15 +1,5 @@
 ==INSTRUCTIONS==
-
-Hey, I don't know how to host the site using Github, so for now, to test this you can do 1 of two things:
-
-(1) Download all these files and host the site on your computer, although not ideal if you're on a shared computer
-
-or
-
-(2) Fork this project on Replit (you're gonna need a Replit account) and use the developer's webview option. You can even open the webview in a separate tab.
-Access the Replit here: https://replit.com/@NicholasAlvare1/DigitalDetoxPOCProjectLeo 
-
-Either of these options should work, it would be nice to know how the proof-of-concept webpage works in different browsers.
+Access the site here: https://liontrovert.github.io/ProjectLeoDigitalDetoxv1/
 
 ==CREDITS==
 
@@ -24,3 +14,6 @@ https://www.playlab.ai/app/nick-alvarez-s-space/web-builder-bot
 All images are generated using Magic Media by Canva.
 https://www.canva.com/ai-image-generator/ 
 All images prompt engineered by NICHOLAS ALVAREZ
+
+==LISCENCE==
+Apparently Github projects have a Liscence of some sort.... Ummm.... I guess I have full copyright over this so... don't steal my project or make money off it. I AI generated 25% of this stuff anyway.
