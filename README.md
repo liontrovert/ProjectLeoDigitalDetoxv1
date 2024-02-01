@@ -1,4 +1,5 @@
 ==INSTRUCTIONS==
+
 Access the site here: https://liontrovert.github.io/ProjectLeoDigitalDetoxv1/
 
 ==CREDITS==
@@ -16,4 +17,5 @@ https://www.canva.com/ai-image-generator/
 All images prompt engineered by NICHOLAS ALVAREZ
 
 ==LISCENCE==
+
 Apparently Github projects have a Liscence of some sort.... Ummm.... I guess I have full copyright over this so... don't steal my project or make money off it. I AI generated 25% of this stuff anyway.
